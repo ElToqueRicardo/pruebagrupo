@@ -1,0 +1,4 @@
+En este archivo incluireos toda la data privada que no queremos que sea seguida por Git, lo que incluye entre otras cosas, que cuando subamos nuestro proyecto a un repositorio remoto, esta información no se suba.
+
+Lista de archivos NO seguidos por Git:
+agenda-privada.txt
